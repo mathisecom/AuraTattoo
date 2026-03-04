@@ -444,6 +444,22 @@
         "spacing": "none"
       }
     },
+    "scrolling_text_mATKnQ": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Cicatrisation Rapide & Peau Apaisée",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 7,
+        "background": "#003c40",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "text_gradient": ""
+      }
+    },
     "media_with_text_4yjeyi": {
       "type": "media-with-text",
       "blocks": {
@@ -478,22 +494,6 @@
         "full_width": true,
         "alternate_media_position": false,
         "spacing": "none"
-      }
-    },
-    "scrolling_text_mATKnQ": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "Cicatrisation Rapide & Peau Apaisée",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 10,
-        "background": "#003c40",
-        "background_gradient": "",
-        "text_color": "#ffffff",
-        "text_gradient": ""
       }
     },
     "media_with_text_ign8JA": {
