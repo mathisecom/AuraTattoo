@@ -236,6 +236,12 @@
             "show_taxes_notice": false
           }
         },
+        "text_dGJkhP": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Hydrate, protège et sublime</strong> votre tatouage dès les premiers jours.</p>"
+          }
+        },
         "liquid_qdPfnX": {
           "type": "liquid",
           "settings": {
@@ -326,6 +332,7 @@
         "title",
         "badges",
         "price",
+        "text_dGJkhP",
         "liquid_qdPfnX",
         "rating",
         "separator",
