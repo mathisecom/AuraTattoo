@@ -278,7 +278,7 @@
         "collapsible_text_gnP6qX": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "none",
+            "icon": "picto-leaf",
             "icon_width": 20,
             "title": "Title",
             "content": "<p>Share some content to your customers about your products.</p>",
