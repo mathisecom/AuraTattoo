@@ -444,6 +444,78 @@
         "spacing": "none"
       }
     },
+    "media_with_text_4yjeyi": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_9qUWaE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/CREA1080X1080-2026-01-15T100214.186.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "OBTENIR MAINTENANT",
+            "link_url": "",
+            "background": "#fafffe",
+            "background_gradient": "",
+            "text_color": "#003c40",
+            "text_gradient": "",
+            "button_background": "#003c40",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_9qUWaE"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "media_with_text_ign8JA": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_6UGr4C": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/CREA1080X1080-2026-01-15T103529.147.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "OBTENIR MAINTENANT",
+            "link_url": "",
+            "background": "#fafffe",
+            "background_gradient": "",
+            "text_color": "#003c40",
+            "text_gradient": "",
+            "button_background": "#003c40",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_6UGr4C"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
     "custom_liquid_8ALWmT": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -737,6 +809,8 @@
     "featured-product",
     "logo_list_MdeY6E",
     "media_with_text_mycNfQ",
+    "media_with_text_4yjeyi",
+    "media_with_text_ign8JA",
     "custom_liquid_8ALWmT",
     "image_link_blocks_MrxWig",
     "testimonials_4AzgGG",
