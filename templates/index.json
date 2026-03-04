@@ -268,6 +268,12 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "liquid_tqwtyy": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
         }
       },
       "block_order": [
@@ -280,7 +286,8 @@
         "description",
         "variant-picker",
         "quantity-selector",
-        "buy-buttons"
+        "buy-buttons",
+        "liquid_tqwtyy"
       ],
       "settings": {
         "full_width": false,
