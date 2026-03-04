@@ -280,7 +280,7 @@
           "settings": {
             "icon": "picto-leaf",
             "icon_width": 20,
-            "title": "Title",
+            "title": "Ingrédients",
             "content": "<p>Share some content to your customers about your products.</p>",
             "page": ""
           }
@@ -290,7 +290,7 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Title",
+            "title": "Conseils D'Application",
             "content": "<p>Share some content to your customers about your products.</p>",
             "page": ""
           }
