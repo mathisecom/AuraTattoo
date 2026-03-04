@@ -785,29 +785,45 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Quand dois-je appliquer le baume tatouage ?",
+            "content": "<p>Appliquez une fine couche après la séance, sur peau propre et sèche. Renouvelez 2 à 3 fois par jour pendant toute la période de cicatrisation.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Convient-il à tous les types de peau ?",
+            "content": "<p>Oui, sa formule 100 % naturelle au beurre de karité et à l’huile de macadamia bio convient à toutes les peaux, même sensibles.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Aide-t-il vraiment à réduire les démangeaisons ?",
+            "content": "<p>Oui, il apaise rapidement les irritations et limite les démangeaisons en créant une barrière protectrice naturelle.</p>"
+          }
+        },
+        "item_4JMDhK": {
+          "type": "item",
+          "settings": {
+            "title": "Peut-on l’utiliser sur un ancien tatouage ?",
+            "content": "<p>Absolument. Il hydrate en profondeur et aide à préserver l’éclat et la pigmentation de vos tatouages au fil du temps.</p>"
+          }
+        },
+        "item_Gn9jTB": {
+          "type": "item",
+          "settings": {
+            "title": "Contient-il des produits chimiques ou synthétiques ?",
+            "content": "<p>Non, notre baume est composé uniquement d’ingrédients d’origine naturelle, sans substances nocives ni additifs chimiques.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_4JMDhK",
+        "item_Gn9jTB"
       ],
       "settings": {
         "full_width": false,
