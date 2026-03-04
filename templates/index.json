@@ -15,6 +15,8 @@
         "image_cJFaUJ": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_52.jpg",
+            "mobile_image": "shopify://shop_images/BANNER_MOBILE_74.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -27,7 +29,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 46,
             "background": "",
             "background_gradient": ""
           }
@@ -41,7 +43,7 @@
         "full_width": true,
         "allow_transparent_header": true,
         "show_initial_transition": false,
-        "image_size": "md",
+        "image_size": "lg",
         "controls_type": "dots",
         "transition_type": "fade_with_text",
         "autoplay": false,
