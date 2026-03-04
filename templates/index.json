@@ -307,7 +307,7 @@
         "collapsible_text_tDNRyH": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "none",
+            "icon": "picto-question",
             "icon_width": 20,
             "title": "Conseils D'Application",
             "content": "<ul><li>Appliquer une petite quantité de baume sur une peau propre et sèche.</li><li>Masser délicatement la zone tatouée jusqu’à absorption complète.</li><li>Utiliser quotidiennement ou selon les besoins, de préférence après la douche.</li></ul><p>⚠️ Usage externe uniquement. Éviter le contact avec les yeux. En cas d’irritation, cesser l’utilisation.</p>",
@@ -423,13 +423,13 @@
             "subheading": "",
             "title": "Heading",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "link_text": "",
+            "link_text": "OBTENIR MAINTENANT",
             "link_url": "",
             "background": "#ffffff",
             "background_gradient": "",
             "text_color": "#003c40",
             "text_gradient": "",
-            "button_background": "",
+            "button_background": "#003c40",
             "button_text_color": ""
           }
         }
@@ -442,6 +442,19 @@
         "full_width": true,
         "alternate_media_position": false,
         "spacing": "none"
+      }
+    },
+    "custom_liquid_8ALWmT": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<link href=\"https://fonts.googleapis.com/css2?family=Epilogue:wght@700;800&family=DM+Sans:wght@400;500;600&family=Playfair+Display:ital,wght@1,700&display=swap\" rel=\"stylesheet\">\n\n<section style=\"padding: 30px 20px; text-align: center; font-family: 'DM Sans', sans-serif;\">\n  <!-- Badge -->\n  <div style=\"display: inline-flex; align-items: center; gap: 7px; padding: 5px 14px; border: 1.5px solid #003C40; border-radius: 20px; font-size: 13px; font-weight: 500; color: #003C40; margin-bottom: 20px; font-family: 'DM Sans', sans-serif;\">\n    <svg width=\"15\" height=\"15\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M12 15a6 6 0 1 0 0-12 6 6 0 0 0 0 12Z\" stroke=\"#003C40\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n      <path d=\"M8.21 13.89 7 23l5-3 5 3-1.21-9.12\" stroke=\"#003C40\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    TESTÉ ET APPROUVÉS PAR NOS CLIENTS\n  </div>\n  <!-- Titre -->\n  <h2 style=\"font-size: clamp(20px, 6vw, 36px); font-weight: 300; letter-spacing: -0.03em; color: #0a0a0a; margin: 0; line-height: 1.1; font-family: 'Epilogue', sans-serif;\">\n    Approuvés Par <span style=\"font-family: 'Playfair Display', Georgia, serif; font-style: italic; font-weight: 700; color: #003C40;\">+3,000 Clients.</span>\n  </h2>\n</section>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "image_link_blocks_MrxWig": {
@@ -712,6 +725,7 @@
     "featured-product",
     "logo_list_MdeY6E",
     "media_with_text_mycNfQ",
+    "custom_liquid_8ALWmT",
     "image_link_blocks_MrxWig",
     "testimonials_4AzgGG",
     "faq"
