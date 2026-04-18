@@ -213,6 +213,32 @@
         "heading_gradient": ""
       }
     },
+    "rich_text_P6bEi3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_pVFAdT": {
+          "type": "heading",
+          "settings": {
+            "text": "Offrez à votre tatouage la cicatrisation qu’il mérite",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_pVFAdT"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -870,6 +896,7 @@
     "slideshow_mx4yEy",
     "custom_liquid_kGXqeM",
     "image_link_blocks_qJTp9b",
+    "rich_text_P6bEi3",
     "featured-product",
     "logo_list_MdeY6E",
     "media_with_text_mycNfQ",
