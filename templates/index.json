@@ -358,6 +358,16 @@
             "page": ""
           }
         },
+        "collapsible_text_386C8h": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "picto-leaf",
+            "icon_width": 20,
+            "title": "Huile de macadamia",
+            "content": "<p>Riche en acides gras essentiels, l’huile de macadamia est reconnue pour ses propriétés <strong>nourrissantes</strong>, <strong>apaisantes</strong> et <strong>protectrices</strong>.</p><p>Sa composition proche du sébum naturel permet une absorption rapide, sans effet gras, tout en aidant à maintenir une peau <strong>souple</strong>, <strong>hydratée</strong> et confortable.</p><p>Elle contribue à préserver l’équilibre de la peau et à accompagner sa régénération, tout en protégeant l’éclat et la tenue du tatouage.</p>",
+            "page": ""
+          }
+        },
         "collapsible_text_Rj98gn": {
           "type": "collapsible_text",
           "settings": {
@@ -371,9 +381,9 @@
         "collapsible_text_gnP6qX": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "picto-leaf",
+            "icon": "picto-validation",
             "icon_width": 20,
-            "title": "Ingrédients",
+            "title": "Composition",
             "content": "<p><em><strong>Butyrospermum Parkii Butter*, Macadamia Integrifolia Seed Oil*</strong></em></p><p><em><strong>*Ingrédient issu de l’agriculture biologique</strong></em></p>",
             "page": ""
           }
@@ -407,6 +417,7 @@
         "liquid_wYHnTz",
         "liquid_tqwtyy",
         "collapsible_text_QzRYW8",
+        "collapsible_text_386C8h",
         "collapsible_text_Rj98gn",
         "collapsible_text_gnP6qX",
         "collapsible_text_tDNRyH"
