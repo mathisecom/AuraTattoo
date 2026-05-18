@@ -271,6 +271,12 @@
             "show_taxes_notice": false
           }
         },
+        "text_kYRjAV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>50 ML</p>"
+          }
+        },
         "text_dGJkhP": {
           "type": "text",
           "settings": {
@@ -358,6 +364,16 @@
             "page": ""
           }
         },
+        "collapsible_text_DQWj6d": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Title",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
         "collapsible_text_386C8h": {
           "type": "collapsible_text",
           "settings": {
@@ -405,6 +421,7 @@
         "title",
         "badges",
         "price",
+        "text_kYRjAV",
         "text_dGJkhP",
         "liquid_qdPfnX",
         "kaching_bundles_app_block_RRdkEG",
@@ -417,6 +434,7 @@
         "liquid_wYHnTz",
         "liquid_tqwtyy",
         "collapsible_text_QzRYW8",
+        "collapsible_text_DQWj6d",
         "collapsible_text_386C8h",
         "collapsible_text_Rj98gn",
         "collapsible_text_gnP6qX",
